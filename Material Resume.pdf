@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://127.0.0.1:5501/index.html#experience -->
+<html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Material Resume</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="crossorigin">
+  <link rel="preload" as="style" href="./Material Resume_files/css2">
+  <link rel="stylesheet" href="./Material Resume_files/css2" media="all" onload="this.media=&#39;all&#39;">
+  <noscript>
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" />
+  </noscript>
+  <link href="./Material Resume_files/all.min.css" rel="stylesheet">
+  <link href="./Material Resume_files/mdb.min.css" rel="stylesheet">
+  <link href="./Material Resume_files/aos.css" rel="stylesheet">
+  <link href="./Material Resume_files/main.css" rel="stylesheet">
+  <noscript>
+    <style type="text/css">
+      [data-aos] {
+        opacity: 1 !important;
+        transform: translate(0) scale(1) !important;
+      }
+    </style>
+  </noscript>
+<style>INPUT:-webkit-autofill,SELECT:-webkit-autofill,TEXTAREA:-webkit-autofill{animation-name:onautofillstart}INPUT:not(:-webkit-autofill),SELECT:not(:-webkit-autofill),TEXTAREA:not(:-webkit-autofill){animation-name:onautofillcancel}@keyframes onautofillstart{from{}}@keyframes onautofillcancel{from{}}
+</style><style type="text/css" data-styled-components="FiaaB gTcftA caPIRE" data-styled-components-is-local="true">
+/* sc-component-id: sc-keyframes-FiaaB */
+@-webkit-keyframes FiaaB{100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}@keyframes FiaaB{100%{-webkit-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}
+/* sc-component-id: sc-keyframes-gTcftA */
+@-webkit-keyframes gTcftA{10%,90%{-webkit-transform:translate3d(-1px,0,0);-ms-transform:translate3d(-1px,0,0);transform:translate3d(-1px,0,0);}20%,80%{-webkit-transform:translate3d(2px,0,0);-ms-transform:translate3d(2px,0,0);transform:translate3d(2px,0,0);}30%,50%,70%{-webkit-transform:translate3d(-4px,0,0);-ms-transform:translate3d(-4px,0,0);transform:translate3d(-4px,0,0);}40%,60%{-webkit-transform:translate3d(4px,0,0);-ms-transform:translate3d(4px,0,0);transform:translate3d(4px,0,0);}}@keyframes gTcftA{10%,90%{-webkit-transform:translate3d(-1px,0,0);-ms-transform:translate3d(-1px,0,0);transform:translate3d(-1px,0,0);}20%,80%{-webkit-transform:translate3d(2px,0,0);-ms-transform:translate3d(2px,0,0);transform:translate3d(2px,0,0);}30%,50%,70%{-webkit-transform:translate3d(-4px,0,0);-ms-transform:translate3d(-4px,0,0);transform:translate3d(-4px,0,0);}40%,60%{-webkit-transform:translate3d(4px,0,0);-ms-transform:translate3d(4px,0,0);transform:translate3d(4px,0,0);}}
+/* sc-component-id: sc-keyframes-caPIRE */
+@-webkit-keyframes caPIRE{0%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}20%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}40%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}60%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}80%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}100%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}}@keyframes caPIRE{0%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}20%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}40%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}60%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}80%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}100%{-webkit-transform:scale(.75);-ms-transform:scale(.75);transform:scale(.75);}}</style><script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script><style>
+      .glot-sub-active{
+        color: #1296ba !important;
+      }
+      
+      .glot-sub-hovered{
+        color: #1296ba !important;
+      }
+      .glot-sub-clzz{
+        cursor: pointer;
+        
+        lineHeight: 1.2;
+          font-size: 32px;
+          color: #FFCC00; background: rgba(17, 17, 17, 0.7);
+        
+      }
+      .glot-sub-clzz:hover{
+        color: #1296ba !important;
+      }
+      .ej-trans-sub{
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999999;
+        cursor: move;
+      }
+      .ej-trans-sub > span{
+        color: #3CF9ED;
+        font-size: 18px;
+        text-align: center;
+        padding: 0 16px;
+        line-height: 1.5;
+        background: rgba(32, 26, 25, 0.8);
+        // text-shadow: 0px 1px 4px black;
+        padding: 0 8px;
+        
+        lineHeight: 1.2;
+        font-size: 22px;
+        color: #0CB1C7; background: rgba(67, 65, 65, 0.7);
+      
+      }
+      .ej-main-sub{
+        position: absolute;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 99999999;
+        cursor: move;
+        padding: 0 8px;
+      }
+      .ej-main-sub > span{
+        color: white;
+        font-size: 20px;
+        line-height: 1.5;
+        text-align: center;
+        background: rgba(32, 26, 25, 0.8);
+        // text-shadow: 0px 1px 4px black;
+        padding: 2px 8px;
+        
+        lineHeight: 1.2;
+          font-size: 32px;
+          color: #FFCC00; background: rgba(17, 17, 17, 0.7);
+        
+      }
+
+      .ej-main-sub .glot-sub-clzz{
+        background: transparent !important
+      }
+
+      .tran-subtitle > .view-icon-edit-sub{
+        cursor: pointer;
+        padding-left: 10px;
+        top: 2px;
+        position: relative;
+      }
+
+      .tran-subtitle > .view-icon-edit-sub > svg{
+        width: 16px;
+        height: 16px;
+        pointer-events: none;
+      }
+      
+      </style></head>
+
+<body class="bg-light" id="top" data-aos-easing="ease" data-aos-duration="1000" data-aos-delay="0" data-new-gr-c-s-check-loaded="14.1020.0" data-gr-ext-installed="" cz-shortcut-listen="true">
+  <header class="d-print-none">
+    <div class="container text-center text-lg-left">
+      <div class="pt-4 clearfix">
+        <h1 class="site-title mb-0">VMC</h1>
+        <div class="site-nav">
+          <nav role="navigation">
+            <ul class="nav justify-content-center">
+              <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:5501/index.html#about" title="About"><span class="menu-title">About</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:5501/index.html#skills" title="Skills"><span class="menu-title">Education</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:5501/index.html#experience" title="Experience"><span class="menu-title">Experience</span></a>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="http://127.0.0.1:5501/index.html#education" title="Education"><span class="menu-title">Skills</span></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="page-content">
+    <div class="container">
+      <div class="resume-container">
+        <div class="shadow-1-strong bg-white my-5" id="intro">
+          <div class="bg-info text-white">
+            <div class="cover bg-image"><img src="./Material Resume_files/header-background.jpg">
+              <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(2px);">
+                <div class="text-center p-5">
+                  <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="./Material Resume_files/avatar.jpg" width="160" height="160"></div>
+                  <div class="header-bio mt-3">
+                    <div data-aos="zoom-in" data-aos-delay="0" class="aos-init aos-animate">
+                      <h2 class="h1">Vo Mong Chuyen</h2>
+                      <p>Front-end Developer</p>
+                    </div>
+                    <div class="header-social mb-3 d-print-none aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
+                      <nav role="navigation">
+                        <ul class="nav justify-content-center">
+                          <!-- <li class="nav-item"><a class="nav-link" href="https://twitter.com/templateflip" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
+                    </li> -->
+                          <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/gao.banh.58910" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
+                          </li>
+                          <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/mchuynee.vmc/" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
+                          </li>
+                          <li class="nav-item"><a class="nav-link" href="https://github.com/mongchuyen0102" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                          </li>
+                        </ul>
+                      </nav>
+                    </div>
+                    <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3 aos-init aos-animate" href="http://127.0.0.1:5501/material-resume.pdf" data-aos="fade-right" data-aos-delay="700">Download CV</a><a class="btn btn-info btn-lg shadow-sm mt-1 aos-init aos-animate" href="http://127.0.0.1:5501/index.html#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="shadow-1-strong bg-white my-5 p-5" id="about">
+          <div class="about-section">
+            <div class="row">
+              <div class="col-md-6">
+                <h2 class="h2 fw-light mb-4">About Me</h2>
+                <p>Hello! I’m Mong Chuyen.I'm searching for new challenges and chances in my career, with the goal of
+                  becoming an exceptional Font-end developer in the assigned task, utilizing all of my skills and
+                  talents and adding significant value to the firm.</p>
+                <!-- <p>I can easily capitalize on low hanging fruits and quickly maximize timely deliverables for real-time schemas.</p> -->
+              </div>
+
+              <div class="col-md-5 offset-lg-1">
+                <div class="row mt-2">
+                  <h2 class="h2 fw-light mb-4">Bio</h2>
+                  <!-- <div class="col-sm-5">
+              <div class="pb-2 fw-bolder"><i class="fab fa-skype pe-2 text-muted" style="width:24px;opacity:0.85;"></i>Full Name</div>
+            </div>
+            <div class="col-sm-7">
+              <div class="pb-2">Vo Mong Chuyen</div>
+            </div> -->
+                  <div class="col-sm-5">
+                    <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i>Birthday</div>
+                  </div>
+                  <div class="col-sm-7">
+                    <div class="pb-2">01 January, 2000</div>
+                  </div>
+                  <div class="col-sm-5">
+                    <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
+                  </div>
+                  <div class="col-sm-7">
+                    <div class="pb-2">mongchuyen0102@gmail.com</div>
+                  </div>
+                  <div class="col-sm-5">
+                    <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Address</div>
+                  </div>
+                  <div class="col-sm-7">
+                    <div class="pb-2">Ho Chi Minh City</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="shadow-1-strong bg-white my-5 p-5" id="education">
+          <div class="education-section">
+            <h2 class="h2 fw-light mb-4">Education</h2>
+            <div class="timeline">
+              <div class="timeline-card timeline-card-success aos-init" data-aos="fade-in" data-aos-delay="0">
+                <div class="timeline-head px-4 pt-3">
+                  <div class="h5"> College of Information Technology <span class="text-muted h6">from University of
+                      Sciences, VNUHCM</span> </div>
+                </div>
+                <div class="timeline-body px-4 pb-4">
+                  <div class="text-muted text-small mb-3">SEP 2018 - PRESENT</div>
+                  <div>Learn programming, basic knowledge of networking, programming, software. Accumulate teamwork
+                    skills as well as the attitude to learn from friends.</div>
+                </div>
+              </div>
+              <div class="timeline-card timeline-card-success aos-init" data-aos="fade-in" data-aos-delay="200">
+                <div class="timeline-head px-4 pt-3">
+                  <div class="h5">Front End <span class="text-muted h6">from BeCodeching Center, HCM</span> </div>
+                </div>
+                <div class="timeline-body px-4 pb-4">
+                  <div class="text-muted text-small mb-3">SEP 2020 - DEC 2020</div>
+                  <div>Dive deeper into Front-end developers and become more proficient in HTML, CSS, and JS languages.
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="400">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Mathematics <span class="text-muted h6">from Cai Nuoc High Scool</span>          </div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3"> SEP 2015 - JUN 2018</div>
+            <div>User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</div>
+          </div>
+        </div> -->
+            </div>
+          </div>
+        </div>
+        <div class="shadow-1-strong bg-white my-5 p-5" id="experience">
+          <div class="work-experience-section">
+            <h2 class="h2 fw-light mb-4">Experience</h2>
+            <div class="timeline">
+              <div class="timeline-card timeline-card-info aos-init" data-aos="fade-in" data-aos-delay="0">
+                <div class="timeline-head px-4 pt-3">
+                  <div class="h5">Sales website project <span class="text-muted h6">at University of Sciences</span>
+                  </div>
+                </div>
+                <div class="timeline-body px-4 pb-4">
+                  <div class="text-muted text-small mb-3">SEP 2020 - DEC 2020</div>
+                  <div>This is a fashion business website <br>
+                    Work with: PHP, HTML5, CSS3, BOOTSTRAP, JS, MySQL <br>
+                    My responsibilities: theme design, database design <br>
+                    Team size: 3</div>
+                </div>
+              </div>
+              <div class="timeline-card timeline-card-info aos-init" data-aos="fade-in" data-aos-delay="200">
+                <div class="timeline-head px-4 pt-3">
+                  <div class="h5">Design Web <span class="text-muted h6">at BeCodeching Center</span></div>
+                </div>
+                <div class="timeline-body px-4 pb-4">
+                  <div class="text-muted text-small mb-3">OCT 2020 - DEC 2020</div>
+                  <div>
+                    Some websites are designed according to the requirements of instructors. <br>
+                    Work with: HTML5, CSS3 / SCSS, JS / Jquery <br>
+                    <span> <i class="fas fa-link"></i> http://mongchuyen.surge.sh/bt6.html <br></span>
+                    <span> <i class="fas fa-link"></i> http://mongchuyen.surge.sh/bt8.html </span> <br>
+                    <span> <i class="fas fa-link"></i> https://github.com/mongchuyen0102/final_project.git </span>
+                  </div>
+                </div>
+              </div>
+              <!-- <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
+          <div class="timeline-head px-4 pt-3">
+            <div class="h5">Junior Web Developer <span class="text-muted h6">at Indie Studio</span></div>
+          </div>
+          <div class="timeline-body px-4 pb-4">
+            <div class="text-muted text-small mb-3">Jan, 2011 - May, 2013</div>
+            <div>User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</div>
+          </div>
+        </div> -->
+            </div>
+          </div>
+        </div>
+        <!-- <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
+    <div class="skills-section">
+      <h2 class="h2 fw-light mb-4">Skills</h2>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3"><span class="fw-bolder">HTML</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">CSS/SCSS</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Expert</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">JavaScript</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advance</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">WordPress</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Advance</div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3"><span class="fw-bolder">Adobe Photoshop</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Master</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Adobe Illustrator</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Expert</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Sketch</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Expert</div>
+            </div>
+          </div>
+          <div class="mb-3"><span class="fw-bolder">Adobe XD</span>
+            <div class="progress my-2 rounded" style="height: 20px">
+              <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Beginner</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> -->
+
+
+        <div class="shadow-1-strong bg-white my-5 p-5 d-print-none" id="portfolio">
+          <div class="portfolio-section">
+            <h2 class="h2 fw-light mb-4">Skills</h2>
+            <div class="row g-0">
+              <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="./Material Resume_files/image2.jpg" width="800" height="500"></a></div>
+              <div class="col-md-6 d-flex align-items-center aos-init" data-aos="fade-left" data-aos-delay="100">
+                <div class="m-4 mt-md-2">
+                  <p class="text-teal text-small">HTML / CSS / JavaScript</p>
+                  <p class="text-muted">Basic language, indispensable in building the interface of a website. Is the
+                    first language to learn when you want to be a front-end developer.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row g-0 portfolio-reverse">
+              <div class="col-md-6 d-flex align-items-center aos-init" data-aos="fade-right" data-aos-delay="100">
+                <div class="m-4 mt-md-2 text-end">
+                  <p class="text-teal text-small">Bootstrap / Adobe Photoshop / MySQL</p>
+                  <p class="text-muted">Support more in the process of building website, creative, flexible, easy to use
+                    and save time.</p>
+                </div>
+              </div>
+              <div class="col-md-6"><a href="https://www.behance.net/" target="_blank"><img class="img-fluid" src="./Material Resume_files/image1.png" width="800" height="500"></a></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <script src="./Material Resume_files/mdb.min.js.tải xuống"></script>
+  <script src="./Material Resume_files/aos.js.tải xuống"></script>
+  <script src="./Material Resume_files/main.js.tải xuống"></script>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+<div id="eJOY__extension_root" class="eJOY__extension_root_class" style="all: unset;"></div><iframe id="nr-ext-rsicon" style="position: absolute; display: none; width: 50px; height: 50px; z-index: 2147483647; border-style: none; background: transparent;" src="./Material Resume_files/saved_resource.html"></iframe></body></html>
